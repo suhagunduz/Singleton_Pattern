@@ -1,0 +1,2 @@
+# Singleton_Pattern
+YZM-2118 YAZILIM MİMARİSİ VE TASARIMI VİZE PROJE ÖDEVİ

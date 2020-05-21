@@ -1,0 +1,26 @@
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe.config
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.pdb
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.exe
+C:\Users\Gizem İşeri\Desktop\AktifSınıflar\SeeSharp\05)SOLID And Design Pattern\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe.config
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\bin\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Desktop\20200304-DesignPattern\01-SingletonPattern\obj\Debug\01-SingletonPattern.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe.config
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\bin\Debug\01-SingletonPattern.pdb
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.exe
+C:\Users\suhagunduz\Desktop\Singleton\01-SingletonPattern\obj\Debug\01-SingletonPattern.pdb
